@@ -9,7 +9,6 @@ from utils import (
     retrieve_messages_from_thread,
     retrieve_assistant_created_files
 )
-from streamlit_lottie import st_lottie
 import requests
 import pandas as pd
 pd.options.mode.chained_assignment = None  # default='warn'
